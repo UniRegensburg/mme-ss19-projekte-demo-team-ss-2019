@@ -28,6 +28,8 @@ URide ist eine Webanwendung für Angehörige der Universität Regensburg. Über 
 
 ### Features
 
+Eine Übersicht aller ursprünglich geplanten und dokumentierten Features finden Sie [hier](Features.md).
+
 - Start und *Onboarding*: Beim ersten Start können Nutzer ihren Namen sowie Ihre persönliche Adresse angeben. Für die Berechnung der körperlichen Auswirkungen des Fahrradfahrens werden Alter, Gewicht und Informationen zum Fahrrad eingegeben.
 
 - Übersicht: Den Nutzern steht eine Übersichtsseite mit einer Sammlung der wichtigsten Informationen zur Verfügung. Angezeigt werden die gesamt zurückgelegte Strecke, die Informationen der letzten Fahrt, umgesetzte Kalorien, gegenüber der Verwendung eines PKWs eingespartes CO2 und die Anzahl der Tage, an denen kein Parkplatz am Campus benötigt wurde.
