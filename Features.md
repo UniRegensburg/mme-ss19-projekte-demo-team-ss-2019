@@ -2,7 +2,7 @@
 
 ## Features
 
-| Feature | Beschreibung | Priorität | Geschätzter Aufwand | Betroffen Schichten |
+| Feature | Beschreibung | Priorität | Geschätzter Aufwand | Betroffene Schichten |
 |---------|--------------|-----------|--------------------|---------------------|
 | **Profil anlegen und speichern** | Nutzer können beim initialen Start der Anwendung ein Nutzerprofil erstellen, in dem Name, persönliche Adresse (Siehe *Adressbuch pflegen*), Alter, Gewicht und Art des Fahrrads gespeichert werden. Die Daten werden benötigt um die Erfassung der einzelnen Fahrten zu ermöglichen bzw. zu erleichtern. Die Profildaten werden dabei über eine entsprechende Maske erfasst und vor dem Speichern validiert. Das erstellte Profil wird dauerhaft gespeichert und steht anderen Anwendungskomponenten zur Verfügung. Zusammen mit den Daten wird eine eindeutige, für die Nutzer nicht sichtbare ID generiert und gespeichert. | hoch (kritisch) | 1 Tag | UI, Datenbank, Javascript |
 | **Profil editieren** | Nutzer können das initial erstellte Profil editieren. Dabei können alle initial gemachten Angaben einzeln geändert und gespeichert werden. Die Pflege der Adressen erfolgt über eine separate Funktion (Siehe *Adressbuch pflegen*). Nutzer erhalten Feedback über das Ergebnis der einzelnen Bearbeitungen und deren Speicherung. | mittel (unkritisch) | 0.5 Tage | UI, Datenbank, Javascript |
